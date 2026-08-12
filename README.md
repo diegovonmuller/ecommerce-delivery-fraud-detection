@@ -54,7 +54,7 @@ Os dados sustentam a hipótese de **fraude do entregador** como o fator mais rel
 
 ## Dashboard
 
-Dashboard interativo disponível no Tableau Public: *[adicionar link após publicação]*
+Dashboard interativo disponível no Tableau Public: https://public.tableau.com/app/profile/diego.von.muller/viz/DetecodeFraudesEntregas/DetecodeFraudesemEntregas-10_000pedidos#1
 
 ## Dados
 
